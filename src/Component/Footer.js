@@ -6,7 +6,7 @@ const Footer=()=>{
     return(
         <>
             <div className="footer">
-                <h6 style={{ margin: 20 }}>Kelompok 18 Praktikum RPLBK 2022</h6>
+                <h6 style={{ padding: 20 }}>Kelompok 18 Praktikum RPLBK 2022</h6>
             </div>
         </>
     )
